@@ -11,6 +11,7 @@
  * @size: Size specifier
  *
  * Return: Number of chars printed.
+ * Team Project of Samuel Tesfaye and Robel Araya
  */
 int handle_write_char(char c, char buffer[],
 	int flags, int width, int precision, int size)
