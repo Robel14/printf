@@ -5,6 +5,7 @@
  * @format: Formatted string in which to print the arguments.
  * @i: List of arguments to be printed.
  * @list: list of arguments.
+ * Team Project of Samuel Tesfaye and Robel Araya
  *
  * Return: width.
  */
