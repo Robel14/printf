@@ -5,6 +5,7 @@
  * @format: Formatted string in which to print the arguments
  * @i: take a parameter.
  * Return: Flags:
+ * Team Project of Samuel Tesfaye and Robel Araya
  */
 int get_flags(const char *format, int *i)
 {
