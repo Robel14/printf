@@ -6,6 +6,7 @@
  * main - Entry point
  *
  * Return: Always 0
+ * Team Project of Samuel Tesfaye and Robel Araya
  */
 int main(void)
 {
